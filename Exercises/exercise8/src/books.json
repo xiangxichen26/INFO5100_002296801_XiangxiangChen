@@ -1,0 +1,22 @@
+{
+  "BookShelf": [
+    {
+      "title": "The Great Gatsby",
+      "publishedYear": 1925,
+      "numberOfPages": 218,
+      "authors": ["F. Scott Fitzgerald"]
+    },
+    {
+      "title": "1984",
+      "publishedYear": 1949,
+      "numberOfPages": 328,
+      "authors": ["George Orwell"]
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "publishedYear": 1960,
+      "numberOfPages": 281,
+      "authors": ["Harper Lee"]
+    }
+  ]
+}

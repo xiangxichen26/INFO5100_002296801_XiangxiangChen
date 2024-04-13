@@ -1,0 +1,26 @@
+<BookShelf>
+    <Book>
+        <title>The Great Gatsby</title>
+        <publishedYear>1925</publishedYear>
+        <numberOfPages>218</numberOfPages>
+        <authors>
+            <author>F. Scott Fitzgerald</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>1984</title>
+        <publishedYear>1949</publishedYear>
+        <numberOfPages>328</numberOfPages>
+        <authors>
+            <author>George Orwell</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>To Kill a Mockingbird</title>
+        <publishedYear>1960</publishedYear>
+        <numberOfPages>281</numberOfPages>
+        <authors>
+            <author>Harper Lee</author>
+        </authors>
+    </Book>
+</BookShelf>

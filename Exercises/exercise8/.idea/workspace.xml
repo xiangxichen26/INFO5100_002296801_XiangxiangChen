@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c6aa2c-694b-4d99-b448-99dadf33bec1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/JsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/JsonParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/XMLParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/XMLParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/books.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/books.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/books.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/books.xml" afterDir="false" />
-    </list>
+    <list default="true" id="08c6aa2c-694b-4d99-b448-99dadf33bec1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +73,7 @@
       <workItem from="1713049850785" duration="21000" />
       <workItem from="1713049876628" duration="1756000" />
       <workItem from="1713155967033" duration="2953000" />
-      <workItem from="1713158934545" duration="1775000" />
+      <workItem from="1713158934545" duration="2089000" />
     </task>
     <servers />
   </component>

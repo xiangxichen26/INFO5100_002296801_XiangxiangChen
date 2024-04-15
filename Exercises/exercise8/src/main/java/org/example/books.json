@@ -1,22 +1,58 @@
 {
   "BookShelf": [
     {
-      "title": "The Great Gatsby",
-      "publishedYear": 1925,
       "numberOfPages": 218,
+      "publishedYear": 1925,
+      "title": "The Great Gatsby",
       "authors": ["F. Scott Fitzgerald"]
     },
     {
-      "title": "1984",
-      "publishedYear": 1949,
       "numberOfPages": 328,
+      "publishedYear": 1949,
+      "title": "1984",
       "authors": ["George Orwell"]
     },
     {
-      "title": "To Kill a Mockingbird",
-      "publishedYear": 1960,
       "numberOfPages": 281,
+      "publishedYear": 1960,
+      "title": "To Kill a Mockingbird",
       "authors": ["Harper Lee"]
+    },
+    {
+      "numberOfPages": 277,
+      "publishedYear": 1951,
+      "title": "The Catcher in the Rye",
+      "authors": ["J.D. Salinger"]
+    },
+    {
+      "numberOfPages": 464,
+      "publishedYear": 1939,
+      "title": "The Grapes of Wrath",
+      "authors": ["John Steinbeck"]
+    },
+    {
+      "numberOfPages": 311,
+      "publishedYear": 1932,
+      "title": "Brave New World",
+      "authors": ["Aldous Huxley"]
+    },
+    {
+      "numberOfPages": 1178,
+      "publishedYear": 1954,
+      "title": "The Lord of the Rings",
+      "authors": ["J.R.R. Tolkien"]
+    },
+    {
+      "numberOfPages": 206,
+      "publishedYear": 1950,
+      "title": "The Lion, the Witch and the Wardrobe",
+      "authors": ["C.S. Lewis"]
+    },
+    {
+      "numberOfPages": 454,
+      "publishedYear": 2003,
+      "title": "The Da Vinci Code",
+      "authors": ["Dan Brown"]
     }
   ]
 }

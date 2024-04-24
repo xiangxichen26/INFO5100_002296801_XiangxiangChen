@@ -32,11 +32,7 @@ cd imageManagementTool
 ```
 
 ## Run the project
-To run the application, navigate to the project directory in your terminal, and execute:
-```bash
-java -jar imagemanagementtool.jar
-```
-Alternatively, you can run the project directly from your IDE by importing it as a Maven project and running the Main class.The path of the main class is
+You can run the project directly from your IDE by importing it as a Maven project and running the Main class.The path of the main class is
 ```angular2html
 FinalProject/imageManagementTool/src/main/java/org/example/imagemanagementtool/Main.java
 ```

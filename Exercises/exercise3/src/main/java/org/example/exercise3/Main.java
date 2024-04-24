@@ -11,12 +11,23 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.GridPane;
 import javafx.scene.text.Font;
 
+/**
+ * A simple calculator application built using JavaFX.
+ * This class sets up the GUI for a calculator and handles basic arithmetic operations including addition, subtraction,
+ * multiplication, and division. It also provides buttons for clearing the calculation or completing the calculation.
+ */
 public class Main extends Application {
-    private String number1 = "";
-    private String number2 = "";
-    private String operation = "";
-    private static boolean flag = false;
+    private String number1 = ""; // Holds the first number in the calculation
+    private String number2 = ""; // Holds the second number in the calculation
+    private String operation = ""; // Holds the operation to be performed between the numbers
+    private static boolean flag = false; // Used to reset number1 when a new operation begins
 
+    /**
+     * Starts the application and sets up the user interface.
+     * The UI includes a text field for displaying numbers and operations, and a grid of buttons for input.
+     *
+     * @param primaryStage The primary stage for this application, onto which the application scene can be set.
+     */
     @Override
     public void start(Stage primaryStage) {
         BorderPane pane = new BorderPane();

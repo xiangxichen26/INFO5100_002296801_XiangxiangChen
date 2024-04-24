@@ -10,4 +10,4 @@
 - exercise5: exercise5/src/Main.java
 - exercise6: exercise6/src run each file in this directory
 - exercise8: exercise8/src/main/java/org/example/Main.java
-- hackathon: hackathon/src/Main.java
+- hackathon: hackathon/src/main/java/org/example/Main.java

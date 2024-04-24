@@ -4,16 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78902515-1192-4660-bca4-572a60f1961d" name="Changes" comment="" />
+    <list default="true" id="78902515-1192-4660-bca4-572a60f1961d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercise8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8/src/main/java/org/example/books.json" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8/src/main/java/org/example/books.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8/src/main/java/org/example/books.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8/src/main/java/org/example/books.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fZ2UdaRe1qvV4iCUHkWJfu12W8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,9 +28,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kelly/Desktop/Master/class/INFO5100_002296801_XiangxiangChen/Exercises/hackathon",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/kelly/Desktop/Master/class/INFO5100_002296801_XiangxiangChen/Exercises/exercise8/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -44,6 +54,13 @@
       </method>
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713994301314</updated>
+      <workItem from="1713994537631" duration="141000" />
     </task>
     <servers />
   </component>

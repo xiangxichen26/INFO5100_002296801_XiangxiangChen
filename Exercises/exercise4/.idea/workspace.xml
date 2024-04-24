@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="890cdf6f-156b-4d03-a28e-be950594e57f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercise0/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise0/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise0/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/exercise0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Desk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Scaner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise0/src/model/Tea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/exercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/src/model/FullTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/src/model/PartTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/src/model/Session.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise1/src/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/exercise2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/src/model/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/src/model/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/src/model/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/src/model/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2/src/model/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise3b/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise3b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/circle.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise3b/circle.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/exercise3b.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/rectangle.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise3b/rectangle.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/square.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise3b/square.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/src/model/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/src/model/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/src/model/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/src/model/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/src/model/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3b/triangle.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise3b/triangle.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise5/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/exercise5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/factory/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/factory/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/factory/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/factory/ShapeFactoryPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/factory/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/factory/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/observer/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/observer/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/observer/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/observer/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/observer/ShapeObserverPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/observer/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/observer/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/observer/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/singleton/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/singleton/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/singleton/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/singleton/ShapeSingletonPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/singleton/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5/src/model/singleton/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise6/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/exercise6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/src/AsymmetricEncryption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/src/DigitalSignature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6/src/SymmetricEncryption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8/src/main/java/org/example/books.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8/src/main/java/org/example/books.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hackathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hackathon/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xiangxichen26&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xiangxichen26/INFO5100_002296801_XiangxiangChen.git&quot;,
+    &quot;accountId&quot;: &quot;ebb4c2c1-a83e-41cc-973b-50a1487f808a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fZFb0YevaY1WjOlOm7p8ZemQvv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/kelly/Desktop/Master/class/INFO5100_002296801_XiangxiangChen/Exercises/exercise4/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="890cdf6f-156b-4d03-a28e-be950594e57f" name="Changes" comment="" />
+      <created>1714000761274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714000761274</updated>
+      <workItem from="1714000762290" duration="39000" />
+      <workItem from="1714001037338" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

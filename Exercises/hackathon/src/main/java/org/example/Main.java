@@ -1,3 +1,5 @@
+package org.example;
+
 import com.github.javafaker.Faker;
 import java.util.Scanner;
 

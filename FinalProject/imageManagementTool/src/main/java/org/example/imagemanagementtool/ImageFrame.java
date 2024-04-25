@@ -19,7 +19,7 @@ public class ImageFrame extends JFrame {
         getContentPane().setBackground(new Color(245, 245, 245)); // set the background color
 
         // customize the background
-        BackgroundPanel backgroundPanel = new BackgroundPanel("FinalProject/imageManagementTool/src/background.jpg");
+        BackgroundPanel backgroundPanel = new BackgroundPanel("/background.jpg");
         backgroundPanel.setBorder(new EmptyBorder(20, 10, 20, 10));
         setContentPane(backgroundPanel);
 

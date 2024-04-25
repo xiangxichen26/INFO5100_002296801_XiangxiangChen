@@ -2,8 +2,8 @@ package org.example.imagemanagementtool;
 import javax.swing.*;
 import java.awt.*;
 import javax.imageio.ImageIO;
-import java.io.File;
 import java.io.IOException;
+import java.util.Objects;
 
 /**
  * This class sets up the background of the panel
@@ -12,10 +12,11 @@ import java.io.IOException;
 public class BackgroundPanel extends JPanel {
     private Image backgroundImage;
 
-    public BackgroundPanel(String filename) {
+    public BackgroundPanel(String resourcePath)  {
         setLayout(new BorderLayout());
         try {
-            backgroundImage = ImageIO.read(new File(filename));
+            // Use getResourceAsStream to read the file as a stream
+            backgroundImage = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream(resourcePath)));
         } catch (IOException e) {
             e.printStackTrace();
         }
